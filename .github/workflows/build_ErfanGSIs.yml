@@ -7,10 +7,10 @@ on:
 env:
   ROM_URL: https://coloroswebsitefs.coloros.com/coloroswebsite-coloros-com/grs_20200702115312/PBEM00_11_OTA_3130_all_8IDLfNksVmGl.ozip
   ROM_NAME: ColorOS
-  BUILD_AB: false
+  BUILD_AB: true
   BUILD_AONLY: true
   ROM_AONLY: R17_Aonly_F-13.7z
-  ROM_AB: K20P_AB_20.7.16-eu.7z
+  ROM_AB: R17_AB_F-13.7z
 
 jobs:
   build:
