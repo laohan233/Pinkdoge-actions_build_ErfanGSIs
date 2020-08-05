@@ -5,12 +5,12 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://coloroswebsitefs.coloros.com/coloroswebsite-coloros-com/grs_20200702115312/PBEM00_11_OTA_3130_all_8IDLfNksVmGl.ozip
-  ROM_NAME: ColorOS
+  ROM_URL: https://ip3107270767.mobgslb.tbcache.com/Firmware/Flyme/note9/8.1.5.0/cn/20200728024015/e7bf9f80/update.zip?ali_redirect_domain=firmware.meizu.com&ali_redirect_ex_ftag=26791a71b1816130423eec0ec8fef48259c3c9bff4bf25dc&ali_redirect_ex_tmining_ts=1596617978&ali_redirect_ex_tmining_expire=3600&ali_redirect_ex_hot=100
+  ROM_NAME: Flyme
   BUILD_AB: true
   BUILD_AONLY: true
-  ROM_AONLY: R17_Aonly_F-13.7z
-  ROM_AB: R17_AB_F-13.7z
+  ROM_AONLY: Flyme_Aonly_20.8.5_note9_LKX.7z
+  ROM_AB: Flyme_AB_20.8.5_note9_LKX.7z
 
 jobs:
   build:
