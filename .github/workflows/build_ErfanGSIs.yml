@@ -5,12 +5,12 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://36-158-183-129.ksyungslb.com/bigota.d.miui.com/20.8.6/miui_MI8SE_20.8.6_ed26676f9c_10.0.zip 
+  ROM_URL: https://hugeota.d.miui.com/20.6.18/miui_MIMIX2_20.6.18_7235eadecf_9.0.zip
   ROM_NAME: MIUI
   BUILD_AB: false
   BUILD_AONLY: true
-  ROM_AONLY: MIUI12_Aonly_10_20.8.6_MI8SE_LKX.7z
-  ROM_AB: MIUI12_AB_10_20.8.6_MI8SE_LKX.7z
+  ROM_AONLY: MIUI12_Aonly_9_20.8.7_mix2_LKX.7z
+  ROM_AB: MIUI12_AB_9_20.8.7_mix2_LKX.7z
 
 jobs:
   build:
