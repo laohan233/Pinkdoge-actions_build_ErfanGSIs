@@ -5,11 +5,11 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://hugeota.d.miui.com/V12.0.1.0.PDICNXM/miui_HM6Pro_V12.0.1.0.PDICNXM_81d8bc0ad2_9.0.zip
+  ROM_URL: http://bigota.d.miui.com/V12.0.4.0.PEFCNXM/miui_HMS2_V12.0.4.0.PEFCNXM_b220c0a02e_9.0.zip
   ROM_NAME: MIUI
   BUILD_AB: false
   BUILD_AONLY: true
-  ROM_AONLY: MIUI12_Aonly_9_V12.0.1.0_Redmi 6 Pro_LKX.7z
+  ROM_AONLY: MIUI12_Aonly_9_V12.0.4.0_Redmi S2_LKX.7z
   ROM_AB: MIUI12_AB_10_V12.1.0.3.0_MI9_LKX.7z
 
 jobs:
