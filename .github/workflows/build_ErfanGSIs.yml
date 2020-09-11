@@ -9,7 +9,7 @@ env:
   ROM_NAME: MIUI
   BUILD_AB: true
   BUILD_AONLY: true
-  ROM_AONLY: MIUI12_Aonly_10_12.0.2_Redmi note7 pro_laohan.7z
+  ROM_AONLY: MIUI12_Aonly_10_12.0.2_Redmi note7 pro_Laohan.7z
   ROM_AB: MIUI12_AB_10_12.0.2_Redmi note7 pro_Laohan.7z
 
 jobs:
