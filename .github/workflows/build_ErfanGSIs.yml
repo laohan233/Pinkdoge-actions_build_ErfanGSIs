@@ -8,7 +8,7 @@ env:
   ROM_URL: http://bigota.d.miui.com/V12.0.2.0.QFHCNXM/miui_VIOLET_V12.0.2.0.QFHCNXM_cb92059195_10.0.zip
   ROM_NAME: MIUI
   BUILD_AB: true
-  BUILD_AONLY: true
+  BUILD_AONLY: false
   ROM_AONLY: MIUI12_Aonly_10_12.0.2_Redmi note7 pro_Laohan.7z
   ROM_AB: MIUI12_AB_10_12.0.2_Redmi note7 pro_Laohan.7z
 
