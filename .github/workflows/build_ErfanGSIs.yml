@@ -5,12 +5,12 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://hugeota.d.miui.com/20.9.4/miui_MI8SE_20.9.4_8b18fec4c4_10.0.zip
+  ROM_URL: http://bigota.d.miui.com/V12.0.2.0.QFHCNXM/miui_VIOLET_V12.0.2.0.QFHCNXM_cb92059195_10.0.zip
   ROM_NAME: MIUI
   BUILD_AB: true
   BUILD_AONLY: true
-  ROM_AONLY: MIUI12_Aonly_10_20.9.4_MI8SE_KX.7z
-  ROM_AB: MIUI12_AB_10_10_20.9.4_MI8SE_Laohan.7z
+  ROM_AONLY: MIUI12_Aonly_10_12.0.2_Redmi note7 pro_laohan.7z
+  ROM_AB: MIUI12_AB_10_12.0.2_redminote7 pro_Laohan.7z
 
 jobs:
   build:
