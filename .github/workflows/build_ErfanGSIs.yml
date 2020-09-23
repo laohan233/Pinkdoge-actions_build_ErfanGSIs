@@ -6,7 +6,7 @@ on:
     
 env:
   ROM_URL: $Sc0ccUiyTXC$ ^YCZcAFarWu^  ##YnDe2QC1_AO## %J2mEy4zVJa@ ##yx1etkKnSb8##一
-  ROM_NAME: Flyme
+  ROM_NAME: MIUI
   BUILD_AB: true
   BUILD_AONLY: false
   ROM_AONLY: MIUI12_Aonly_10_12.0.2_Redmi note7 pro_Laohan.7z
